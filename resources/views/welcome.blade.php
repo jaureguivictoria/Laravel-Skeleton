@@ -7,7 +7,7 @@
             <p class="lead">
                 Use this Laravel skeleton to quickly start any new project.<br>
                 All you get is the <a href="https://laravel.com/docs/5.6/mix">Laravel Mix</a>
-                with <a href="https://getbootstrap.com/">Bootstrap</a>.</p>
+                with <a href="https://getbootstrap.com/">Bootstrap</a> and <a href="https://vuejs.org/">Vue JavaScript Framework</a>.</p>
         </div>
     </main>
 @endsection
